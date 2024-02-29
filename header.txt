@@ -32,9 +32,9 @@
 		</script>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>People from the Kaktus Towers</title>
+	<title>Lorenzo Galligani</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="People from the Kaktus Towers" />
+	<meta name="description" content="Lorenzo Galligani" />
 	<meta name="keywords" content="David Galligani,Kaktus Towers, Copenhagen, photography, arquitecture" />
 	<meta name="author" content="davidgalligani.com" />
 
